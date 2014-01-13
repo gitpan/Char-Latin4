@@ -1,14 +1,12 @@
 NAME
 
-       Char::Latin4 - Source code filter for Latin-4 script (Imitation JPerl)
+       Latin4 - Source code filter for Latin-4 script (Imitation JPerl)
 
 SYNOPSIS
 
     In your script:
 
-      use Char::Latin4; # CPAN formal style
-         or
-      use Latin4; # casual style
+      use Latin4;
 
     At command prompt:
 
